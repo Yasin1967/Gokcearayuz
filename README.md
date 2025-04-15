@@ -17,9 +17,10 @@ Bu repo, GÖKÇE projesine ait **web tabanlı kontrol paneli arayüzünü** içe
 
 ---
 
-## Ekran Görüntüsü
+## KONTROL PANELİ
 
 ![Panel Görünümü](screenshot.png)
+![harita Görünümü](harita.png)
 
 
 
@@ -37,3 +38,4 @@ Geliştirme amacıyla kullanılabilir; ancak ticarileştirme, yeniden dağıtım
 
 Her türlü görüş, öneri ve işbirliği için:  
 **[ertugrulbalsuzen@gmail.com]**
+**[yasinefeduzgun2005@gmail.com]**
