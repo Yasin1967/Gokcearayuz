@@ -19,7 +19,7 @@ Bu repo, GÖKÇE projesine ait **web tabanlı kontrol paneli arayüzünü** içe
 
 ## Ekran Görüntüsü
 
-![Panel Görünümü](screenshot.png)
+![P(screenshot.png)
 
 ---
 
@@ -28,7 +28,6 @@ Bu repo, GÖKÇE projesine ait **web tabanlı kontrol paneli arayüzünü** içe
 1. Bu klasörü ESP32'ye SPIFFS veya LittleFS olarak yükleyin.
 2. Paneli çalıştırmak için ESP32 üzerinde web server açın.
 3. Tarayıcınızdan IP adresine girerek panele ulaşın.
-4. `background.jpg` dosyasını klasörde tutarak görsel temayı koruyun.
 
 ---
 
