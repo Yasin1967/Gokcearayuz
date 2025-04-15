@@ -13,7 +13,7 @@ Bu repo, GÖKÇE projesine ait **web tabanlı kontrol paneli arayüzünü** içe
 - Jammer aç/kapa ve otomatik mod kontrolü
 - Sistem sağlık durumu (batarya, sıcaklık, WiFi bağlantı)
 - ESP32 uyumlu, responsive tasarım
-- Görsel destek: arka plan ve örnek ekran görüntüsü
+
 
 ---
 
